@@ -1,1 +1,2 @@
-makes a new branch 
+"Add line using
+EGit."
